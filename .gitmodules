@@ -1,3 +1,30 @@
 [submodule "Minecraft"]
 	path = Minecraft
 	url = https://github.com/GrayTeamGaming/Minecraft
+[submodule "Conan-Exiles"]
+	path = Conan-Exiles
+	url = https://github.com/GrayTeamGaming/Conan-Exiles
+[submodule "Valheim"]
+	path = Valheim
+	url = https://github.com/GrayTeamGaming/Valheim
+[submodule "The-Forest"]
+	path = The-Forest
+	url = https://github.com/GrayTeamGaming/The-Forest
+[submodule "Sons-Of-The-Forest"]
+	path = Sons-Of-The-Forest
+	url = https://github.com/GrayTeamGaming/Sons-Of-The-Forest
+[submodule "Ark-Survival-Evolved"]
+	path = Ark-Survival-Evolved
+	url = https://github.com/GrayTeamGaming/Ark-Survival-Evolved
+[submodule "Ark-Survival-Ascended"]
+	path = Ark-Survival-Ascended
+	url = https://github.com/GrayTeamGaming/Ark-Survival-Ascended
+[submodule "V-Rising"]
+	path = V-Rising
+	url = https://github.com/GrayTeamGaming/V-Rising
+[submodule "Terraria"]
+	path = Terraria
+	url = https://github.com/GrayTeamGaming/Terraria
+[submodule "Starbound"]
+	path = Starbound
+	url = https://github.com/GrayTeamGaming/Starbound
